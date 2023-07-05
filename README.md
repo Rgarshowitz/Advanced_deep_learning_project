@@ -2,6 +2,7 @@
 This is the visualization part for the advanced deep learning project by Shay Matok and Ron Garshowitz
 
 In the EDA phase we created these visualizations, Here we will present only few examples, all of the rest exist in the repository).
+Please watch also the html files with the TF-IDF visualizations added.
 
 1. At first we looked at the labels distributions, not including null values:
   
