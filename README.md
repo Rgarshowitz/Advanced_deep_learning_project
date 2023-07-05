@@ -1,5 +1,5 @@
 # Advanced_deep_learning_project
-this is the visualization part for the advanced deep learning project by Shay Matok and Ron Garshowitz
+This is the visualization part for the advanced deep learning project by Shay Matok and Ron Garshowitz
 
 In the EDA phase we created these visualizations, Here we will present only few examples, all of the rest exist in the repository).
 
