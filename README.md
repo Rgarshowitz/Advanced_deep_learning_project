@@ -3,6 +3,7 @@ this is the visualization part for the advanced deep learning project by Shay Ma
 
 In the EDA phase we created these visualizations:
 
-1. At first we looked at the labels distributions, not including null values.
+1. At first we looked at the labels distributions, not including null values:
+
 
 
