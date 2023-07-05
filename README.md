@@ -3,7 +3,7 @@ this is the visualization part for the advanced deep learning project by Shay Ma
 
 In the EDA phase we created these visualizations, Here we will present only few examples, all of the rest exist in the repository).
 
-1. At first we looked at the labels distributions, not including null values (not all pr:
+1. At first we looked at the labels distributions, not including null values:
   
 ![main category](https://github.com/Rgarshowitz/Advanced_deep_learning_project/assets/95139813/d660ab15-e453-4af9-80ee-c779de448572)
 
